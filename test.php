@@ -3,5 +3,5 @@ echo "test";
 
 
 echo "<prerefasf";
-die()
+die();
 ?>
